@@ -1,0 +1,4 @@
+Домашняя работа#1 Задание #1
+1. Сделать fork репозитория: https://github.com/nicepeopleproject/simple-currency-api
+2. В отдельной ветке решить задачу.
+3. Сделать pull request на изначальный репозиторий.
